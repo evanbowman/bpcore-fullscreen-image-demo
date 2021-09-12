@@ -1,6 +1,8 @@
 # bpcore-fullscreen-image-demo
 
-The BPCore gba engine cannot display fullscreen images in a single tile
+A demo for https://github.com/evanbowman/BPCore-Engine/blob/master/README.md
+
+The engine from Blind Jump cannot display fullscreen images in a single tile
 layer. But you can display fullscreen images with two layers. I could give more
 memory to one of the engine's tile layers, so that it can access more VRAM tiles
 at once, but then I'd need to take memory away from a different
